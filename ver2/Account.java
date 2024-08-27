@@ -7,12 +7,6 @@ public class Account {
 	private double balance;
 	
 
-	// Constructor
-
-	public Account(double initBalance) {
-
-	balance = initBalance;
-	
 	
 
 	}
